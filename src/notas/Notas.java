@@ -22,7 +22,7 @@ c = "Sobresaliente";
 else
 c = "La nota introducida no es correcta";
 
-System.out.println(c);
+System.out.println(c);  
 reader.close();
 }
 }
