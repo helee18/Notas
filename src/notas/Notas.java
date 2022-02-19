@@ -18,7 +18,7 @@ c = "Aprobado";
 else if (n >= 7 && n <9)
 c = "Notable";
 else if (n >= 9 && n <= 10)
-c = "Sobresaliente";
+c = "Sobresaliente"; 
 else
 c = "La nota introducida no es correcta";
 
