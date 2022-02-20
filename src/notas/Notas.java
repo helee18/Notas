@@ -19,7 +19,7 @@ public class Notas {
 			calificacion = "Notable";}
 		else if (nota >= 9 && nota <= 10) {
 			calificacion = "Sobresaliente";}
-		else {
+		else { 
 			calificacion = "La nota introducida no es correcta";}
 
 		System.out.println(calificacion);
